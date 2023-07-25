@@ -1,3 +1,3 @@
 hello all
-My name is indresh bharati and i am create netflix clone 
+My name is indresh Bharati and i am creating netflix clone 
 so ready to watch my repo to all 
